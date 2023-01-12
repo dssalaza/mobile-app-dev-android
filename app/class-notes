@@ -1,0 +1,6 @@
+- Notes:
+ - TextSize is set to sp measure to conserve user's preferences. i.e: textSize property.
+ - imageView is set to dp measure because is independent of devices. i.e: layout_widht, layout_height.
+ - Bottons are always set as a wrap_content on layout_width and layout_height.
+
+ - Sometimes when a value/configuration is setup but don't show as done we should Build -> Clean Project
