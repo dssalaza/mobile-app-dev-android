@@ -19,13 +19,11 @@ public class MainActivity extends AppCompatActivity {
         //run time view binding
         btnShowRecipe = findViewById(R.id.btnShowRecipe);
 
-        btnShowRecipe.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
+        btnShowRecipe.setOnClickListener((View view) -> {
                 startActivity(new Intent(
                         MainActivity.this,
                         RecipeActivity.class));
-            }
+
         });
 
     }
