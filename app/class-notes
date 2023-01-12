@@ -4,3 +4,4 @@
  - Bottons are always set as a wrap_content on layout_width and layout_height.
 
  - Sometimes when a value/configuration is setup but don't show as done we should Build -> Clean Project
+ - When something does not work we can close Android Studio and delete ./.gradle and ./.idea folders (temporary folders) and build it again or delete ./build folder

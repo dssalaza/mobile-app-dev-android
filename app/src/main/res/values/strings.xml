@@ -3,4 +3,10 @@
     <string name="txtTitle">Bruschetta</string>
     <string name="imgDesc">Bruschetta</string>
     <string name="btnTxtShowRecipe">Show Recipe</string>
+    <string name="txtIngred">Ingredients</string>
+    <string name="txtIngred1">4 plum tomatoes</string>
+    <string name="txtIngred2">6 basil leaves</string>
+    <string name="txtIngred3">3 garlic cloves, chopped</string>
+    <string name="txtIngred4">3 TB olive oil</string>
+    <string name="txtDirections">Combine the ingredients and add salt to taste. Top French bread slices with mixture.</string>
 </resources>
